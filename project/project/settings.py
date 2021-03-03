@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken', # enable the authentication token for the rest framework
     'app', # add the app to the apps
     'user', # enable the user app
+    'recipe', # enable the RECIPE API 
 
 ]
 
